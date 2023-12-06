@@ -7,6 +7,6 @@ This project is composed of
 2. Express server
 3. REST Api
 4. NodeJS Authentication
-5 And many more other node related stuffs
+5. And many more other node related stuffs
 
 *This App is hosted on ***[Railway App](https://railwayapp.app/project/)****
