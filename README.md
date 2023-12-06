@@ -1,6 +1,12 @@
-# nodejs
-A minimal Node.js web application.
+# NodeJS training Project
 
-For a step-by-step guide to deploying on [Railway](https://railway.app/?referralCode=alphasec), see [this](https://alphasec.io/how-to-deploy-a-nodejs-app-on-railway/) post, or click the button below.
+built on top of the power from ***NodeJS*** this is the project that am surprised about.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Abo1zu?referralCode=alphasec)
+This project is composed of
+1 Basic NodeJS
+2 Express server
+3 REST Api
+4 NodeJS Authentication
+5 And many more other node related stuffs
+
+*This App is hosted on ***[!Railway App](https://railwayapp.app/project/)****
